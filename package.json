@@ -1,0 +1,23 @@
+{
+  "name": "js_array_properties_problem_set",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dineshsuvendiran/JS_array_properties_problem_set.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dineshsuvendiran/JS_array_properties_problem_set/issues"
+  },
+  "homepage": "https://github.com/dineshsuvendiran/JS_array_properties_problem_set#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
